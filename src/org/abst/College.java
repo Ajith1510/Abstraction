@@ -14,9 +14,17 @@ public abstract class College {
 		System.out.println("www.saranathan.edu.in");
 
 	}
+
+	public void bhc() {
+
+		System.out.println("BHC");
+		
+	}
+		
 	public void jmc() {
 
 		System.out.println("JMC");
+		
 	}
 	public abstract void joshep();
 	public abstract void jamal() ;
