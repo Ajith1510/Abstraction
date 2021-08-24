@@ -23,5 +23,7 @@ public class Col extends College {
 		c.jamal();
 		c.saranathan();
 	}
+
+	
 	
 }
